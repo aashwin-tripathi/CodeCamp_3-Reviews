@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CodeCamp_3-Review/static/css/main.827cc244.chunk.css",
-    "main.js": "/CodeCamp_3-Review/static/js/main.92dc5919.chunk.js",
-    "main.js.map": "/CodeCamp_3-Review/static/js/main.92dc5919.chunk.js.map",
-    "runtime-main.js": "/CodeCamp_3-Review/static/js/runtime-main.d1b18db4.js",
-    "runtime-main.js.map": "/CodeCamp_3-Review/static/js/runtime-main.d1b18db4.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/CodeCamp_3-Review/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/CodeCamp_3-Review/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/CodeCamp_3-Review/index.html",
-    "precache-manifest.5e1649db4622f100ebfb45d80e410015.js": "/CodeCamp_3-Review/precache-manifest.5e1649db4622f100ebfb45d80e410015.js",
-    "service-worker.js": "/CodeCamp_3-Review/service-worker.js",
-    "static/css/main.827cc244.chunk.css.map": "/CodeCamp_3-Review/static/css/main.827cc244.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/CodeCamp_3-Review/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/CodeCamp_3-Reviews/static/css/main.827cc244.chunk.css",
+    "main.js": "/CodeCamp_3-Reviews/static/js/main.92dc5919.chunk.js",
+    "main.js.map": "/CodeCamp_3-Reviews/static/js/main.92dc5919.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_3-Reviews/static/js/runtime-main.132448e9.js",
+    "runtime-main.js.map": "/CodeCamp_3-Reviews/static/js/runtime-main.132448e9.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/CodeCamp_3-Reviews/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/CodeCamp_3-Reviews/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/CodeCamp_3-Reviews/index.html",
+    "precache-manifest.b4b0b6783f3c157c011fe695f830dcb2.js": "/CodeCamp_3-Reviews/precache-manifest.b4b0b6783f3c157c011fe695f830dcb2.js",
+    "service-worker.js": "/CodeCamp_3-Reviews/service-worker.js",
+    "static/css/main.827cc244.chunk.css.map": "/CodeCamp_3-Reviews/static/css/main.827cc244.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/CodeCamp_3-Reviews/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1b18db4.js",
+    "static/js/runtime-main.132448e9.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.827cc244.chunk.css",
     "static/js/main.92dc5919.chunk.js"
